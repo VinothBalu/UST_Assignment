@@ -1,7 +1,7 @@
 import threading
 
 from source.DivisibleByFive import divisible_by_five
-from source.Palindrome_check import Singleton,Integer
+from source.Palindrome_check import Integer
 
 
 def main():
